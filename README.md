@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Software Engineer | 📱 Mobile Developer | 🎯 Product Creator | ⚙️ Backend Developer<br/>
-  Currently working at <b>Microtruck S.A.</b><br/>
+  Currently working at <b>Microtrack S.A.</b><br/>
   Passionate about building impactful software and exploring AI & ML.
 </p>
 
