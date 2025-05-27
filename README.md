@@ -49,23 +49,10 @@
 
 ---
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+| 🟩 Helpay — Payment Helper for People with Cognitive Disabilities | <img src="helpay.png" alt="Helpay App" width="250"/> |
+|------------------------------------------------|-------------------------------------------|
+| React Native + Expo  <br> Calculates payment combinations with physical bills to assist people with cognitive disabilities. <br><br> 🔗 [Helpay Repo](https://github.com/manueldimarco/helpayApp) | |
 
-      <h4>🟩 Helpay — Payment Helper for People with Cognitive Disabilities</h4>
-      <p>
-        <strong>React Native + Expo</strong><br />
-        Calculates payment combinations with physical bills to assist people with cognitive disabilities.
-      </p>
-      🔗 <a href="https://github.com/manueldimarco/helpayApp">Helpay Repo</a>
-
-    </td>
-    <td>
-      <img src="helpay.png" alt="Helpay App" width="250" />
-    </td>
-  </tr>
-</table>
 
 ---
 
