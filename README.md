@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm [Tu Nombre]</h1>
 
-<!--
-**manueldimarco/manueldimarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Software Engineer | 📱 Mobile Developer | 🎯 Product Creator | ⚙️ Backend Enthusiast<br/>
+  Currently working at <b>Microtruck S.A.</b><br/>
+  Passionate about building impactful software and exploring AI & ML.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 I’m a Computer Engineer
+- 🚀 I build mobile apps and backend services
+- 🧠 Currently diving deeper into **AI** and **Machine Learning**
+- 🔧 Always experimenting and learning something new
+- 💬 Ask me about mobile dev, backend, or building real-world products
+- 📫 Reach me at: [tuemail@gmail.com] | [LinkedIn](https://linkedin.com/in/tuusuario)
+
+---
+
+### 🛠️ Tech Stack
+
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" width="47%"/>
+</p>
