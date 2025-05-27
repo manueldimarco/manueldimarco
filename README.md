@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm [Tu Nombre]</h1>
+<h1 align="center">Hi there 👋, I'm Manuel Di Marco</h1>
 
 <p align="center">
-  💻 Software Engineer | 📱 Mobile Developer | 🎯 Product Creator | ⚙️ Backend Enthusiast<br/>
+  💻 Software Engineer | 📱 Mobile Developer | 🎯 Product Creator | ⚙️ Backend Developer<br/>
   Currently working at <b>Microtruck S.A.</b><br/>
   Passionate about building impactful software and exploring AI & ML.
 </p>
@@ -15,7 +15,7 @@
 - 🧠 Currently diving deeper into **AI** and **Machine Learning**
 - 🔧 Always experimenting and learning something new
 - 💬 Ask me about mobile dev, backend, or building real-world products
-- 📫 Reach me at: [tuemail@gmail.com] | [LinkedIn](https://linkedin.com/in/tuusuario)
+- 📫 Reach me at: [manuelbdimarco@gmail.com] | [LinkedIn](https://www.linkedin.com/in/manuel-baltasar-di-marco-b94955215/)
 
 ---
 
