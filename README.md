@@ -45,7 +45,7 @@
 🔗 [Backend Repo](https://github.com/manueldimarco/MediMem_Backend)  
 🎥 [Demo on LinkedIn](https://www.linkedin.com/posts/manuel-baltasar-di-marco-b94955215_reactnative-springboot-mongodb-activity-7315446670178058240-AIn5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZseWABF_czF011UFKezBn98QN1B-9GGnw)
 
-<img src="MediMem.png" alt="MediMem"  width="200" />
+<img src="MediMem.png" alt="MediMem"  width="300" />
 
 ---
 
@@ -56,7 +56,7 @@
 
 🔗 [Helpay Repo](https://github.com/manueldimarco/helpayApp)
 
-<img src="HelPay_Banner.png" alt="Helpay App" width="200" />
+<img src="HelPay_Banner.png" alt="Helpay App" width="300" />
 
 
 ---
