@@ -48,15 +48,17 @@
 <img src="MediMem.png" alt="MediMem" style="width:100%; margin-top:10px; border-radius:10px;" />
 
 ---
+
 <table>
   <tr>
-    <td>
+    <td style="vertical-align: top; padding-right: 20px;">
 
-      #### 🟩 Helpay — Payment Helper for People with Cognitive Disabilities
-
-      > React Native + Expo  
-      > Calculates payment combinations with physical bills to assist people with cognitive disabilities.  
-      🔗 [Helpay Repo](https://github.com/manueldimarco/helpayApp)
+      <h4>🟩 Helpay — Payment Helper for People with Cognitive Disabilities</h4>
+      <p>
+        <strong>React Native + Expo</strong><br />
+        Calculates payment combinations with physical bills to assist people with cognitive disabilities.
+      </p>
+      🔗 <a href="https://github.com/manueldimarco/helpayApp">Helpay Repo</a>
 
     </td>
     <td>
@@ -64,6 +66,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 📫 Contact
