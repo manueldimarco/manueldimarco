@@ -56,7 +56,7 @@
 
 🔗 [Helpay Repo](https://github.com/manueldimarco/helpayApp)
 
-<img src="helpay.png" alt="Helpay App" style="width:100%; margin-top:10px; border-radius:10px;" />
+<img src="helpay.png" alt="Helpay App" width="600" />
 
 ---
 
