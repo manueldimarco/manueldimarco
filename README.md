@@ -62,7 +62,7 @@
 
 ### 📫 Contact
 
-- 📧 manuel.dimarcogmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/manuel-baltasar-di-marco-b94955215/)
+- 📧 manuelbdimarco@gmail.com  
+- 💼 [LinkedIn](://www.linkedin.com/in/manuel-baltasar-di-marco-b94955215/)
 
 ---
