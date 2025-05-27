@@ -34,9 +34,35 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📱 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manueldimarco&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manueldimarco&theme=radical" width="47%"/>
-</p>
+#### 🟦 MediMem — Medication Reminder App
+
+> React Native + Expo + Spring Boot + MongoDB  
+> Helps users manage their medication schedules and stay up to date with reminders.
+
+🔗 [Frontend Repo](https://github.com/manueldimarco/frontendMediMem)  
+🔗 [Backend Repo](https://github.com/manueldimarco/MediMem_Backend)  
+🎥 [Demo on LinkedIn](https://www.linkedin.com/posts/manuel-baltasar-di-marco-b94955215_reactnative-springboot-mongodb-activity-7315446670178058240-AIn5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZseWABF_czF011UFKezBn98QN1B-9GGnw)
+
+<img src="/mnt/data/MediMem.png" alt="MediMem" style="width:100%; margin-top:10px; border-radius:10px;" />
+
+---
+
+#### 🟩 Helpay — Payment Helper for People with Cognitive Disabilities
+
+> React Native + Expo  
+> Calculates payment combinations with physical bills to assist people with cognitive disabilities.
+
+🔗 [Helpay Repo](https://github.com/manueldimarco/helpayApp)
+
+<img src="/mnt/data/helpay.png" alt="Helpay App" style="width:100%; margin-top:10px; border-radius:10px;" />
+
+---
+
+### 📫 Contact
+
+- 📧 manuel.dimarcogmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manuel-baltasar-di-marco-b94955215/)
+
+---
